@@ -27,4 +27,4 @@ Grab a specific version's binary from the [Releases](https://github.com/aimaddot
 
 ## Documentation
 
-Full setup and usage docs: https://aimad.net/docs/
+Full setup and usage docs: https://sp.aimad.net/docs/
